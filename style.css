@@ -1,8 +1,6 @@
 body{
-  
-  background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
-  background-size: cover;
- background-repeat: no-repeat;
+background-image: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg');
+background-size: cover;
 height:100vh;
 }
 .text-size{
