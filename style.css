@@ -1,9 +1,9 @@
 body{
-background: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg') no-repeat center center fixed;
-    -moz-background-size: cover;
+background: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg') ;
+    background-size: cover;
+     -moz-background-size: cover;
     -webkit-background-size: cover;
     -o-background-size: cover;
-    background-size: cover;
 }
 .text-size{
  min-width: 30%;
