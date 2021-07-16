@@ -28,9 +28,9 @@ fileInstance.readAsText(this.files[0])
  }
 function apiHit(inp) {
  
-inputToApi=(inp.split(" ")).join('+');
+//inputToApi=(inp.split(" ")).join('+');
 //console.log(inputToApi)
-url="https://api.textgears.com/spelling?key=pFpSr9WJcvRmmAp3&text="+inputToApi+"&language=en-GB"
+url="https://api.textgears.com/spelling?key=pFpSr9WJcvRmmAp3&text="+inp+"&language=en-GB"
     x=fetch(url)
     x.then(res=>res.json()).then(data => { 
     y=Object.values(data["response"])
