@@ -1,10 +1,4 @@
 document.getElementById("formFile").addEventListener('change', F2) 
- function fn(){
-   if(document.getElementById('hello') !== null){
-       document.getElementById('hello').remove();
-      }
-}
-
  function F2() {
 var fileInput= document.getElementById("formFile")
 var filePath = fileInput.value;
