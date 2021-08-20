@@ -1,7 +1,7 @@
 # spellcheckerproject
 Using this project you can check all the spell mistakes in you text file and also correct them with the help of suggestion list.
 
-#snapshots of the project. 
+#below are the snapshots of the project. 
 
 
 ![homepage grammerly](https://user-images.githubusercontent.com/41516235/127965011-e51e6778-0384-4ad0-9d90-9d149f0c04d3.PNG)
