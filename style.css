@@ -1,10 +1,21 @@
-body{
-background: url('https://mdbootstrap.com/img/Photos/Others/images/76.jpg') ;
-    background-size: cover;
-     -moz-background-size: cover;
-    -webkit-background-size: cover;
-    -o-background-size: cover;
+body, html {
+  /* height: 100%; */
+  margin: 0;
+  background-image: url("https://mdbootstrap.com/img/Photos/Others/images/76.jpg");
+
+  /* Full height */
+  height: 100%; 
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
+
+/* .bg {
+  /* The image used */
+  
+ */
 .text-size{
  min-width: 30%;
  min-height:100px;
@@ -28,8 +39,8 @@ background-color:rgb(226, 58, 36,0.4);
 }
 
 .container {
- z-index:20;
- margin:50px;
+ z-index:2;
+ margin-top:50px;
  padding-bottom: 10px;
  padding-top:10px;
  box-shadow: 2px 2px 2px 2px rgba(1, 27, 1, 0.6);
