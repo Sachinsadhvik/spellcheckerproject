@@ -1,5 +1,5 @@
 # spellcheckerproject
-Using this project you can check all the spell mistakes in you text file and also correct them with the help of suggestion list.
+Using this project you can check all the spelling mistakes in you text file and also correct them with the help of suggestion list.
 
 #below are the snapshots of the project. 
 
